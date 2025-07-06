@@ -14,7 +14,7 @@ const parent = React.createElement(
   { id: "parent" },
   React.createElement("div", { id: "child" }, [
     React.createElement("h1", {}, "Hello React"),
-    React.createElement("h2", {}, "Hello Namaste React Basic "),
+    React.createElement("h2", {}, "Namaste"),
   ])
 );
 
